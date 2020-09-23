@@ -1,0 +1,5 @@
+[History]
+1=#P0#=mb	#P1#=pDrawChart	#P2#=ChartTest/UltraChart/pDrawChart	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20091117135142	#P7#=0	#P8#=145	.
+2=#P0#=mb	#P1#=UserControl_InitProperties	#P2#=ChartTest/UltraChart/UserControl_InitProperties	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20091117135027	#P7#=0	#P8#=15	.
+3=#P0#=mb	#P1#=UserControl_MouseDown	#P2#=ChartTest/UltraChart/UserControl_MouseDown	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20091117135015	#P7#=0	#P8#=4	.
+4=#P0#=mb	#P1#=Form_Load	#P2#=ChartTest/frmTest/Form_Load	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20091117134010	#P7#=0	#P8#=0	.
